@@ -122,6 +122,8 @@ body {
     background-image: url("../img/bYPgop67xo-43.png");
     background-repeat: repeat-x;
     border-top: 4px solid #D9AE3F;
+    height: 53px;
+    background-position: bottom center;
 }
 #background-header {
     background-image: url("../img/lfkbUe1vwT-375.png");
