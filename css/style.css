@@ -1,3 +1,19 @@
+.footers {
+    background: #112B14;
+    background-position: top center;
+    width: 100%;
+    margin-top: 15px;
+    padding-bottom: 10px;
+}
+.text-dark a{
+    text-decoration: auto;
+}
+.footer-bar {
+    color: #000;
+    font-family: 'Helvetica Neue'
+    padding: 9px 0 9px 0 !important;
+}
+
 .sm-menu a:hover, .sm-menu a:focus {
     background: #ffffff;
     color: #b6b5b5;
@@ -87,6 +103,9 @@
     margin: 15px 0 10px 0;
     padding: 18px 15px 18px 15px;
 }
+.sec-container h3:hover {
+    box-shadow: 0 5px 5px -5px #d9ae3f !important;
+}
 body {
     background: #fffbef
 }
@@ -102,7 +121,7 @@ body {
     border-top: 4px solid #D9AE3F;
 }
 #background-header {
-    background-image: url("http://web-keraton.arisukarno.xyz:8055/assets/8252cada-74e1-4278-ba71-7559de965de5.png");
+    background-image: url("../img/8lS1zfpdmM-100.png");
 }
 #logo {
     margin: 5px 10px 10px 10px !important;
